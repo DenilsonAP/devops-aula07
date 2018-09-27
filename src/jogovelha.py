@@ -3,7 +3,7 @@ TAB = []
 
 def inicializar() :
 
-
+kkk
 TAB.append(['.','.','.'])
 
 
